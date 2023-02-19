@@ -1,0 +1,6 @@
+[submodule "sse_react_client"]
+	path = sse_react_client
+	url = https://github.com/BrianARuff/SSE_CRA_Client.git
+[submodule "SSE_CRA_Client"]
+	path = SSE_CRA_Client
+	url = https://github.com/BrianARuff/SSE_CRA_Client.git
